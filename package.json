@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "solidity-coverage": "^0.5.4"
+  }
+}
